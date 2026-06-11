@@ -1,0 +1,7 @@
+"""Entity layer SSOT — 매직넘버 금지."""
+
+MAGIC_CONSTANT = 34
+GRID_SIZE = 4
+MAX_CELL_VALUE = 16
+BLANK_CELL = 0
+BLANK_COUNT = 2
